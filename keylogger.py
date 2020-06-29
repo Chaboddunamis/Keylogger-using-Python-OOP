@@ -3,9 +3,9 @@ import smtplib
 from threading import Semaphore, Timer
 
 
-SEND_REPORT_EVERY = 600 
+SEND_REPORT_EVERY = 60 
 EMAIL_ADDRESS = "testaddressxyz@gmail.com"
-EMAIL_PASSWORD = "testpassword123" 
+EMAIL_PASSWORD = "testpassword123@" 
 
 
 
